@@ -9,4 +9,4 @@ This is a repository for Module 2.
 Personal project. 
 
 ## Project status
-Ongoing.
+Completed.
