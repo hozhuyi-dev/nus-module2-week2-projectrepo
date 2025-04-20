@@ -1,1 +1,7 @@
-console.log("hello, world")
+console.log("hello, world");
+
+function add(x, y) {
+  return x + y;
+}
+
+console.log(add(1, 2));
